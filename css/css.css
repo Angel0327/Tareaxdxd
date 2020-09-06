@@ -2,3 +2,19 @@
     margin: 0;
     padding: 0;
 }
+
+.cuadro_contenedor{
+    width: 70%;
+    height: 600px;
+    background-color: black;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.cuadro_central{
+    width: 50%;
+    height: 500px;
+    background-color: crimson;
+    margin: auto;
+    padding: 10px;
+}
