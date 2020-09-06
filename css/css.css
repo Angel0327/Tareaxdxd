@@ -12,9 +12,7 @@
 }
 
 .cuadro_central{
-    width: 50%;
-    height: 500px;
+    width: 100%;
+    height: 300px;
     background-color: crimson;
-    margin: auto;
-    padding: 10px;
 }
